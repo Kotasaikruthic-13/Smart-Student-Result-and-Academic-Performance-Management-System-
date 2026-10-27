@@ -2,3 +2,5 @@
 # Original application: Python + Tkinter + SQLite.
 # It uses Python standard-library modules only; no pip packages are required to run it.
 # Note: This is a desktop application, not a Flask web application for Render.
+#Flask
+#gunicorn
